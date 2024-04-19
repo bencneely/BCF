@@ -1,1 +1,1 @@
-Included in this repository are data and analysis files for a manuscript titled "Characteristics of four Blue Catfish fisheries in Kansas with implications for harvest management" submitted for publication as an article to North American Journal of Fisheries Management.
+Included in this repository are data and analysis files for a manuscript titled "Characteristics of four Blue Catfish fisheries with implications for harvest management" submitted for publication as an article to North American Journal of Fisheries Management.

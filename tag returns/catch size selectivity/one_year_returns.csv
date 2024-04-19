@@ -1,0 +1,191 @@
+impd.tagged,loc.caught,tag,tl,hr,at_large,reg
+MILR,Milford Reservoir,67,280,Release,53,1
+MILR,Milford Reservoir,305,391,Release,347,1
+MILR,Milford Reservoir,1084,490,Release,266,1
+MILR,Milford Reservoir,2904,410,Harvest,12,1
+MILR,Milford Reservoir,2918,845,Release,270,1
+MILR,Milford Reservoir,2925,449,Release,17,1
+MILR,Milford Reservoir,2970,593,Harvest,56,1
+MILR,Milford Reservoir,3016,568,Harvest,346,1
+MILR,Milford Reservoir,3063,534,Release,93,1
+MILR,Milford Reservoir,3064,502,Harvest,326,1
+MILR,Milford Reservoir,3070,428,Harvest,17,1
+MILR,Milford Reservoir,3096,394,Release,45,1
+MILR,Milford Reservoir,3119,760,Release,307,1
+MILR,Milford Reservoir,3125,551,Harvest,312,1
+MILR,Milford Reservoir,3268,726,Release,64,1
+MILR,Milford Reservoir,3386,555,Release,250,1
+MILR,Milford Reservoir,3449,420,Release,86,1
+MILR,Milford Reservoir,3468,1168,Release,276,1
+MILR,Milford Reservoir,3500,547,Release,260,1
+MILR,Milford Reservoir,3535,1012,Release,95,1
+MILR,Milford Reservoir,3535,1012,Release,272,1
+MILR,Milford Reservoir,3564,895,Release,79,1
+MILR,Milford Reservoir,3679,482,Harvest,106,1
+MILR,Milford Reservoir,3688,655,Release,36,1
+MILR,Milford Reservoir,3727,469,Harvest,14,1
+MILR,Milford Reservoir,3757,700,Release,57,1
+MILR,Milford Reservoir,3771,483,Release,104,1
+MILR,Milford Reservoir,3818,850,Release,240,1
+MILR,Milford Reservoir,3822,1180,Release,356,1
+MILR,Milford Reservoir,3886,697,Release,96,1
+MILR,Milford Reservoir,4079,958,Release,265,1
+MILR,Milford Reservoir,4086,702,Release,354,1
+MILR,Milford Reservoir,4183,914.4,Release,237,1
+MILR,Milford Reservoir,4187,723.9,Harvest,283,1
+MILR,Milford Reservoir,4199,889,Release,32,1
+MILR,Milford Reservoir,4215,990.6,Release,163,1
+MILR,Milford Reservoir,4216,939.8,Release,164,1
+ELDR,El Dorado Reservoir,4295,520,Release,186,2
+ELDR,El Dorado Reservoir,4334,601,Harvest,222,2
+ELDR,El Dorado Reservoir,4454,535,Harvest,261,2
+ELDR,El Dorado Reservoir,4482,450,Harvest,50,2
+ELDR,El Dorado Reservoir,4487,485,Harvest,50,2
+ELDR,El Dorado Reservoir,4605,436,Release,94,2
+ELDR,El Dorado Reservoir,4837,670,Release,111,2
+ELDR,El Dorado Reservoir,4955,538,Release,111,2
+ELDR,El Dorado Reservoir,5017,661,Release,19,2
+ELDR,El Dorado Reservoir,5028,610,Release,124,2
+ELDR,El Dorado Reservoir,5028,610,Harvest,356,2
+ELDR,El Dorado Reservoir,5067,468,Harvest,61,2
+ELDR,El Dorado Reservoir,5082,469,Release,209,2
+ELDR,El Dorado Reservoir,5120,523,Release,54,2
+ELDR,El Dorado Reservoir,5123,469,Release,361,2
+ELDR,El Dorado Reservoir,5162,548,Harvest,223,2
+ELDR,El Dorado Reservoir,5180,616,Release,61,2
+ELDR,El Dorado Reservoir,5184,681,Release,124,2
+ELDR,El Dorado Reservoir,5194,511,Harvest,75,2
+ELDR,El Dorado Reservoir,5196,530,Release,1,2
+ELDR,El Dorado Reservoir,5250,600,Harvest,18,2
+ELDR,El Dorado Reservoir,5274,520,Harvest,29,2
+ELDR,El Dorado Reservoir,5320,455,Harvest,23,2
+ELDR,El Dorado Reservoir,5329,390,Harvest,80,2
+ELDR,El Dorado Reservoir,5340,620,Harvest,291,2
+ELDR,El Dorado Reservoir,5351,705,Release,156,2
+ELDR,El Dorado Reservoir,5384,591,Harvest,18,2
+ELDR,El Dorado Reservoir,5387,552,Harvest,40,2
+ELDR,El Dorado Reservoir,5391,545,Harvest,68,2
+ELDR,El Dorado Reservoir,5396,572,Harvest,54,2
+ELDR,El Dorado Reservoir,5414,450,Release,53,2
+ELDR,El Dorado Reservoir,5415,563,Release,101,2
+ELDR,El Dorado Reservoir,5430,686,Release,18,2
+ELDR,El Dorado Reservoir,5432,671,Release,324,2
+ELDR,El Dorado Reservoir,5462,493,Release,356,2
+ELDR,El Dorado Reservoir,5464,500,Release,61,2
+ELDR,El Dorado Reservoir,5482,630,Release,23,2
+ELDR,El Dorado Reservoir,5525,510,Release,86,2
+ELDR,El Dorado Reservoir,5565,640,Release,209,2
+ELDR,El Dorado Reservoir,5653,550,Harvest,106,2
+ELDR,El Dorado Reservoir,5654,585,Harvest,282,2
+ELDR,El Dorado Reservoir,5658,578,Harvest,79,2
+ELDR,El Dorado Reservoir,5674,440,Harvest,324,2
+ELDR,El Dorado Reservoir,5681,535,Harvest,93,2
+ELDR,El Dorado Reservoir,5690,520,Release,328,2
+ELDR,El Dorado Reservoir,5700,483,Release,323,2
+ELDR,El Dorado Reservoir,5702,460,Harvest,93,2
+ELDR,El Dorado Reservoir,5716,540,Harvest,72,2
+ELDR,El Dorado Reservoir,5853,597,Release,77,2
+ELDR,El Dorado Reservoir,5875,482,Harvest,142,2
+ELDR,El Dorado Reservoir,5907,497,Harvest,53,2
+ELDR,El Dorado Reservoir,5958,504,Release,275,2
+ELDR,El Dorado Reservoir,5999,524,Release,43,2
+ELDR,El Dorado Reservoir,6023,506,Harvest,85,2
+ELDR,El Dorado Reservoir,6041,581,Harvest,29,2
+ELDR,El Dorado Reservoir,6046,550,Harvest,330,2
+ELDR,El Dorado Reservoir,6145,545,Release,141,2
+ELDR,El Dorado Reservoir,6152,545,Harvest,352,2
+ELDR,El Dorado Reservoir,6161,597,Harvest,267,2
+ELDR,El Dorado Reservoir,6163,535,Harvest,100,2
+ELDR,El Dorado Reservoir,6164,530,Harvest,49,2
+ELDR,El Dorado Reservoir,6169,550,Harvest,156,2
+ELDR,El Dorado Reservoir,6173,550,Harvest,319,2
+ELDR,El Dorado Reservoir,6180,525,Harvest,52,2
+ELDR,El Dorado Reservoir,6191,540,Harvest,152,2
+ELDR,El Dorado Reservoir,6197,580,Release,35,2
+ELDR,El Dorado Reservoir,6199,523,Harvest,92,2
+ELDR,El Dorado Reservoir,6264,505,Harvest,350,2
+ELDR,El Dorado Reservoir,6271,528,Harvest,348,2
+ELDR,El Dorado Reservoir,6274,528,Harvest,79,2
+ELDR,El Dorado Reservoir,6275,563,Harvest,79,2
+ELDR,El Dorado Reservoir,6331,625,Release,330,2
+ELDR,El Dorado Reservoir,6350,468,Harvest,49,2
+ELDR,El Dorado Reservoir,6382,455,Release,357,2
+ELDR,El Dorado Reservoir,6399,579,Harvest,267,2
+ELDR,El Dorado Reservoir,6406,702,Release,328,2
+ELDR,El Dorado Reservoir,6436,490,Harvest,93,2
+ELDR,El Dorado Reservoir,6448,510,Harvest,124,2
+ELDR,El Dorado Reservoir,6450,592,Release,61,2
+ELDR,El Dorado Reservoir,6450,592,Harvest,72,2
+ELDR,El Dorado Reservoir,6487,506,Harvest,328,2
+TCRR,Tuttle Creek Reservoir,4999,535,Release,88,3
+TCRR,Tuttle Creek Reservoir,6910,799,Release,16,3
+TCRR,Tuttle Creek Reservoir,6970,540,Release,29,3
+TCRR,Tuttle Creek Reservoir,6981,559,Release,90,3
+TCRR,Tuttle Creek Reservoir,7001,604,Release,74,3
+TCRR,Tuttle Creek Reservoir,7154,484,Release,205,3
+TCRR,Tuttle Creek Reservoir,7234,887,Release,2,3
+TCRR,Tuttle Creek Reservoir,7286,572,Release,25,3
+TCRR,Tuttle Creek Reservoir,7487,605,Release,199,3
+TCRR,Tuttle Creek Reservoir,7545,856,Release,81,3
+TCRR,Tuttle Creek Reservoir,7664,773,Release,73,3
+TCRR,Tuttle Creek Reservoir,7683,926,Release,144,3
+TCRR,Tuttle Creek Reservoir,7809,835,Release,22,3
+TCRR,Tuttle Creek Reservoir,7875,542,Release,68,3
+TCRR,Tuttle Creek Reservoir,7888,920,Release,89,3
+TCRR,Tuttle Creek Reservoir,7955,925,Release,6,3
+TCRR,Tuttle Creek Reservoir,8057,582,Release,52,3
+TCRR,Tuttle Creek Reservoir,8197,473,Release,46,3
+TCRR,Tuttle Creek Reservoir,8226,337,Release,36,3
+TCRR,Tuttle Creek Reservoir,8250,545,Release,52,3
+TCRR,Big Blue River,6571,898,Harvest,59,4
+WLFC,Coffey County/Wolf Creek,8559,755,Release,74,4
+WLFC,Coffey County/Wolf Creek,8575,690,Release,47,4
+WLFC,Coffey County/Wolf Creek,8590,780,Harvest,349,4
+WLFC,Coffey County/Wolf Creek,8592,755,Release,12,4
+WLFC,Coffey County/Wolf Creek,8624,999,Release,261,4
+WLFC,Coffey County/Wolf Creek,8746,703,Release,174,4
+WLFC,Coffey County/Wolf Creek,8785,642,Harvest,254,4
+WLFC,Coffey County/Wolf Creek,8793,657,Release,16,4
+WLFC,Coffey County/Wolf Creek,9053,410,Release,94,4
+WLFC,Coffey County/Wolf Creek,9079,720,Release,153,4
+WLFC,Coffey County/Wolf Creek,9134,720,Harvest,255,4
+WLFC,Coffey County/Wolf Creek,9281,760,Harvest,36,4
+WLFC,Coffey County/Wolf Creek,9362,555,Harvest,31,4
+WLFC,Coffey County/Wolf Creek,9456,680,Release,278,4
+WLFC,Coffey County/Wolf Creek,9498,497,Release,15,4
+WLFC,Coffey County/Wolf Creek,10359,665,Release,11,4
+MILR,Milford Reservoir spillway,3589,377,Release,80,4
+MILR,Milford Reservoir spillway,3699,533,Release,69,4
+MILR,Milford Reservoir spillway,4127,447,Harvest,359,4
+MILR,Milford Reservoir spillway,4221,825.5,Release,339,4
+MILR,Republican River,2973,670,Harvest,340,4
+MILR,Republican River,3022,512,Harvest,105,4
+MILR,Republican River,3672,478,Harvest,311,4
+MILR,Republican River,3726,490,Harvest,348,4
+MILR,Republican River,4042,633,Harvest,340,4
+MILR,Republican River,4181,704.85,Release,18,4
+TCRR,Tuttle Creek River Pond,6539,534,Release,324,4
+TCRR,Tuttle Creek River Pond,6773,483,Harvest,361,4
+TCRR,Tuttle Creek River Pond,6785,512,Harvest,53,4
+TCRR,Tuttle Creek River Pond,8413,531,Release,359,4
+TCRR,Tuttle Creek spillway (Tubes),8361,635,Release,359,4
+TCRR,Tuttle Creek Reservoir,6576,683,Release,318,5
+TCRR,Tuttle Creek Reservoir,6615,466,Harvest,362,5
+TCRR,Tuttle Creek Reservoir,6696,678,Release,297,5
+TCRR,Tuttle Creek Reservoir,6712,694,Release,312,5
+TCRR,Tuttle Creek Reservoir,6729,637,Release,283,5
+TCRR,Tuttle Creek Reservoir,6913,620,Harvest,357,5
+TCRR,Tuttle Creek Reservoir,7235,1020,Release,299,5
+TCRR,Tuttle Creek Reservoir,7683,926,Release,278,5
+TCRR,Tuttle Creek Reservoir,7729,592,Harvest,312,5
+TCRR,Tuttle Creek Reservoir,7970,825,Release,323,5
+TCRR,Tuttle Creek Reservoir,7974,839,Release,312,5
+TCRR,Tuttle Creek Reservoir,7999,668,Release,315,5
+TCRR,Tuttle Creek Reservoir,8133,765,Harvest,358,5
+TCRR,Tuttle Creek Reservoir,8243,686,Harvest,354,5
+TCRR,Tuttle Creek Reservoir,8263,722,Harvest,287,5
+TCRR,Tuttle Creek Reservoir,8296,724,Harvest,333,5
+TCRR,Tuttle Creek Reservoir,8402,692,Harvest,338,5
+TCRR,Tuttle Creek Reservoir,8411,649,Release,288,5
+TCRR,Tuttle Creek Reservoir,8445,440,Harvest,325,5
+WLFC,Tuttle Creek Reservoir,8866,367,Harvest,224,5
